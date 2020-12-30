@@ -22,7 +22,7 @@ function PhotosArchive({ data }) {
           },
         }}
       />
-      <App title="Photography articles">
+      <App title="Fotoğraflar">
         <Section justifyInner="start">
           <Posts posts={flatten(posts)} />
         </Section>

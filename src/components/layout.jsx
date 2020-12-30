@@ -6,7 +6,7 @@ import "typeface-lato"
 import { createGlobalStyle } from "styled-components"
 
 import { customTheme } from "../theme"
-import Instafeed from "./instafeed"
+// import Instafeed from "./instafeed"
 import Header from "./header"
 import Footer from "./footer"
 import Sidebar from "./sidebar"
@@ -28,9 +28,9 @@ const App = ({ title, children }) => {
         />
         {showSidebar && <Sidebar toggleSidebar={setSidebar} />}
         {children}
-        <ResponsiveContext.Consumer>
+        {/* <ResponsiveContext.Consumer>
           {size => size !== `small` && <Instafeed />}
-        </ResponsiveContext.Consumer>
+        </ResponsiveContext.Consumer> */}
         <Footer />
       </Box>
     </Grommet>

@@ -84,7 +84,7 @@ function BlogPost({ data, pageContext }) {
           </Box>
         </Box>
         {similar.length > 1 && (
-          <Section background="light-1" title="Similar articles">
+          <Section background="light-1" title="Benzer yazılar">
             <Posts
               posts={similar
                 .filter(post => post.frontmatter.title !== frontmatter.title)
