@@ -1,5 +1,5 @@
 {
-  "name": "OAsome",
+  "name": "travel-blog",
   "description": "Gezi Bloğu",
   "dependencies": {
     "dotenv": "^8.1.0",
@@ -68,6 +68,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gokhankar/TravellersBlog"
+    "url": "https://github.com/gokhankar/travel-blog"
   }
 }
