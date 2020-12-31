@@ -24,7 +24,7 @@ Sadece Avrupanın değil, birçok yazar ve şaire göre dünyanın en güzel şe
 Pek tabi ki Paris denilince akla ilk gelen şey "Eyfel Kulesi". Şehrin hemen hemen her yerinden görülebiliyor. Gece ayrı güzel, gündüz ayrı bir havası var. Ağrı dağı gibi yaklaştıkça büyüyor sanki. Özellikle yürüyerek gidiyorsanız, yanına ulaştığınızda büyüklüğü karşısında gerçekten şaşıyorsunuz. Ben iki farklı zamanda gitme şansını elde ettim, birisi kış dönemi olmasına rağmen, kulenin girişinde iki sefer de yüzlerce turist sıra bekliyordu. Öyle zannediyorum ki fransızlar bu demir yığınından darphane gibi para kazanıyorlar:)
 <rehype-image src="cover2.jpg"></rehype-image>
 Kuleye çıktığınızda birkaç ayrı kat olduğunu öğreniyorsunuz. Manzara muhteşem, Paris'in her noktasını buradan grmek mümkün. Zaten dümdüz bir bölge burası.
-<rehype-image src="20140301_170638.jpg"></rehype-image>
+<!-- <rehype-image src="20140301_170638.jpg"></rehype-image>
 <rehype-image src="20140301_171438.jpg"></rehype-image>
 <rehype-image src="20140301_173522.jpg"></rehype-image>
 <rehype-image src="20140301_173530.jpg"></rehype-image>
@@ -34,7 +34,7 @@ Kuleye çıktığınızda birkaç ayrı kat olduğunu öğreniyorsunuz. Manzara 
 <rehype-image src="20141008_154033.jpg"></rehype-image>
 <rehype-image src="20141008_165119.jpg"></rehype-image>
 <rehype-image src="1345.jpg"></rehype-image>
-<rehype-image src="8055.jpg"></rehype-image>
+<rehype-image src="8055.jpg"></rehype-image> -->
 
 
 Aslında Paris'in etkileyici yönü, birbirine çok benzeyen diğer Avrupa şehirlerinden farklı olması. Usta işi heykellerle bezeli geniş meydanlarıyla, çeşmeleriyle, göze hitap eden ferah parklarıyla, antik sarayları ve eserleriyle, farklı medeniyetlerden ve yüzyıllardan fırlayıp karşınıza dikilen tarihi eserleriyle Paris gezdiğim şehirler arasında ilk üçe girmeye aday bir şehir.
