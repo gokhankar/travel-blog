@@ -1,6 +1,6 @@
 ---
 path: "/hamburg/"
-date: "2020-12-27"
+date: "2013-11-04"
 title: "Liman Şehri Hamburg"
 tags: ["hamburg", "germany", "almanya", "alster", "weihnachtsmarkt"]
 cover: "./cover.jpg"

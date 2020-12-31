@@ -1,7 +1,7 @@
 ---
 path: "/paris/"
-date: "2020-12-27"
-title: "Her köşesinde şaşırtan şehir Paris"
+date: "2014-01-03"
+title: "Her köşesi aşk kokan şehir Paris"
 tags: ["paris", "eyfel", "şanzelize", "notr-dame", "gezi"]
 cover: "./cover.jpg"
 country: "Fransa"
@@ -28,13 +28,13 @@ Kuleye çıktığınızda birkaç ayrı kat olduğunu öğreniyorsunuz. Manzara 
 <rehype-image src="20140301_171438.jpg"></rehype-image>
 <rehype-image src="20140301_173522.jpg"></rehype-image>
 <rehype-image src="20140301_173530.jpg"></rehype-image>
-<!-- <rehype-image src="1726.jpg"></rehype-image> -->
+<rehype-image src="1726.jpg"></rehype-image>
 <rehype-image src="20140303_113006.jpg"></rehype-image>
 <rehype-image src="cover.jpg"></rehype-image>
-<rehype-image src="20141008_154033.jpg"></rehype-image> -->
+<rehype-image src="20141008_154033.jpg"></rehype-image>
 <rehype-image src="20141008_165119.jpg"></rehype-image>
-<!-- <rehype-image src="1345.jpg"></rehype-image> -->
-<!-- <rehype-image src="8055.jpg"></rehype-image> -->
+<rehype-image src="1345.jpg"></rehype-image>
+<rehype-image src="8055.jpg"></rehype-image>
 
 
-Paris, gerçekten görülecek bir şey olan şehir. Sonsuz meydanlar, güzel parklar, antik saraylar ve kaleler, birçok usta heykelli büyük meydanlar ve sıçrayan çeşmeler açısından zengin olması nedeniyle birçok Avrupa kentinden farklıdır. Ve bütün bunlar birbirinden uzak değil.
+Aslında Paris'in etkileyici yönü, birbirine çok benzeyen diğer Avrupa şehirlerinden farklı olması. Usta işi heykellerle bezeli geniş meydanlarıyla, çeşmeleriyle, göze hitap eden ferah parklarıyla, antik sarayları ve eserleriyle, farklı medeniyetlerden ve yüzyıllardan fırlayıp karşınıza dikilen tarihi eserleriyle Paris gezdiğim şehirler arasında ilk üçe girmeye aday bir şehir.

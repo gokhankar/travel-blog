@@ -78,7 +78,7 @@ function BlogPost({ data, pageContext }) {
               elevation="small"
               pad={{ horizontal: `small` }}
             >
-              <Heading level="4">Contents</Heading>
+              <Heading level="4">İçerik</Heading>
               <Toc dangerouslySetInnerHTML={{ __html: tableOfContents }} />
             </Box>
           </Box>

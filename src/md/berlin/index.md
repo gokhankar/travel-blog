@@ -1,6 +1,6 @@
 ---
 path: "/berlin/"
-date: "2020-12-27"
+date: "2014-04-30"
 title: "Avrupanın başkenti Berlin"
 tags: ["berlin", "germany", "almanya", "bundestag", "festival"]
 cover: "./cover.jpg"

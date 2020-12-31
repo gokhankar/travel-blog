@@ -41,7 +41,7 @@ const Post = ({
           </Text>
           <Clock color="dark-3" size="medium" />
           <Text color="dark-3" size="small">
-            {timeToRead} min read
+            {timeToRead} dk okuma
           </Text>
         </Box>
       </Box>

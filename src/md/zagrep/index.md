@@ -1,7 +1,7 @@
 ---
 path: "/zagrep/"
 date: "2020-12-27"
-title: "Küçük am güzel bir başkent: Zagrep"
+title: "Küçük ama güzel bir başkent: Zagrep"
 tags: ["zagrep", "crotia", "hırvatistan", "castle", "gezi"]
 cover: "./cover.jpg"
 country: "Hırvatistan"

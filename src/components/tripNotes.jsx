@@ -13,10 +13,10 @@ const Note = ({ text, icon: Icon }) => (
 function TripNotes({ km, duration, itinerary }) {
   return (
     <Box margin="medium" pad={{ horizontal: `small` }} elevation="small">
-      <Heading level="4">Trip details</Heading>
+      <Heading level="4">Gezi ayrıntıları</Heading>
       <Box gap="small" pad="small">
-        <Note text={`${km}km`} icon={Car} />
-        <Note text={`${duration} days`} icon={Schedule} />
+        <Note text={`${km} km`} icon={Car} />
+        <Note text={`${duration} gün`} icon={Schedule} />
         <Note text={`${itinerary.join(` -> `)}`} icon={Map} />
       </Box>
     </Box>
