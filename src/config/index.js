@@ -1,12 +1,12 @@
 module.exports = {
   title: `Gökhan Karaçay Gezi Bloğu`,
-  url: `https://`,
+  url: `https://sharp-easley-16d5f7.netlify.app/`,
   description: `Gökhan Karaçay gezi bloğu. Gezer, fotoğraf çeker, yükler.`,
   twitter: `gokhankrcy`,
   instagram: `gokaracay`,
   gaId: `2223226570`,
   email: `gokhankaracay83@hotmail.com`,
-  github: `gokhankar/TravellersBlog`,
+  github: `gokhankar/travel-blog`,
   facebook: `gokhankaracay`,
   instagram_id: `7298907095`,
 }

@@ -55,13 +55,7 @@ const Footer = () => (
           icon={<Github color="accent-3" />}
           href={`https://github.com/${config.github}`}
         />
-        <Anchor
-          rel="noopener noreferrer"
-          target="_blank"
-          a11title="RSS"
-          icon={<Rss color="accent-3" />}
-          href="/rss.xml"
-        />
+
       </Box>
       <Text>
         {`Tüm metin içerikleri ve fotoğraflar `}
