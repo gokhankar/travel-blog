@@ -4,7 +4,7 @@ date: "2020-12-28"
 title: "Aşık olunan şehir Stockholm"
 tags: ["stckholm", "isveç", "sweden", "kuzey avrupa", "gezi"]
 cover: "./cover.jpg"
-country: "Kuzay Avrupa"
+country: "Kuzey Avrupa"
 type: "article"
 duration: 3
 featured: false

@@ -4,7 +4,7 @@ date: "2020-12-27"
 title: "Kuzeyin soğuk şehri: Oslo"
 tags: ["oslo", "norveç", "norvegian", "kuzey avrupa", "gezi"]
 cover: "./cover.jpg"
-country: "Kuzay Avrupa"
+country: "Kuzey Avrupa"
 type: "article"
 duration: 3
 featured: false

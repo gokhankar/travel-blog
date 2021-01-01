@@ -4,7 +4,7 @@ date: "2020-12-28"
 title: "Mütevazi bir kuzey şehri: Helsinki"
 tags: ["heslinki", "finlandiya", "finland", "kuzey avrupa", "gezi"]
 cover: "./cover.jpg"
-country: "Kuzay Avrupa"
+country: "Kuzey Avrupa"
 type: "article"
 duration: 3
 featured: false
