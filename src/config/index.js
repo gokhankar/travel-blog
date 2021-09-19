@@ -1,6 +1,6 @@
 module.exports = {
   title: `Gökhan Karaçay Gezi Bloğu`,
-  url: `https://sharp-easley-16d5f7.netlify.app/`,
+  url: `https://gokhankaracaytravel.netlify.app/`,
   description: `Gökhan Karaçay gezi bloğu. Gezer, fotoğraf çeker, yükler.`,
   twitter: `gokhankrcy`,
   instagram: `gokaracay`,
