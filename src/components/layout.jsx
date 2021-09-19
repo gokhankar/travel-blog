@@ -1,8 +1,9 @@
 import React, { useState } from "react"
 import PropTypes from "prop-types"
 import { Grommet, Box, ResponsiveContext } from "grommet"
-import "typeface-indie-flower"
 import "typeface-lato"
+import "typeface-cabin"
+import "typeface-indie-flower"
 import { createGlobalStyle } from "styled-components"
 
 import { customTheme } from "../theme"

@@ -14,12 +14,10 @@ Sanmayın ki, iddialıyım, çok gezdim, dolayısıyla çok biliyorum veya böyl
 Şimdilik sayfaların çoğu yapım aşamasında, fakat disiplinli bir şekilde çalışmaya devam edebilirsem eğer, yakın zamanda güzel bir proje ortaya çıkarmak istiyorum.
 Özellikle 2014-2015 arasında yapmaya fırsat bulduğum avrupa şehirlerini eklemek istedim başlangıçta. Belki ilerde Türkeye'nin güzelliklerini de ekleriz siteye birlikte.
 
-
 # Peki ben kimim?
 
 Gökhan Karaçay ismim.
-Gezmeyi, yemeyi, fotoğraf çekmeyi ve yazmayı seviyorum. Ve paylaşmayı da... Resimlerimi de, ekmeğimi de... 
+Gezmeyi, yemeyi, fotoğraf çekmeyi ve yazmayı seviyorum, ve paylaşmayı; resimlerimi de, ekmeğimi de...
 Hakkımda daha ayrıntılı bilgi isterseniz, menüdeki linklerden sosyal medya hesaplarıma ulaşabilirsiniz. Her türlü iletişiminizniden mutlu olurum ve sorularınıza cevap vermekten memnuniyet duyarım.
 
 <rehype-image src="ben.png"></rehype-image>
-

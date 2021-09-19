@@ -23,7 +23,7 @@
     "gatsby-transformer-sharp": "^2.2.12",
     "grommet": "^2.7.6",
     "grommet-icons": "^4.3.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-countup": "^4.2.2",
@@ -34,8 +34,9 @@
     "react-visibility-sensor": "^5.1.1",
     "rehype-react": "^4.0.1",
     "styled-components": "^5.0.1",
-    "typeface-indie-flower": "^0.0.72",
-    "typeface-lato": "^0.0.75"
+    "typeface-cabin": "^1.1.13",
+    "typeface-indie-flower": "0.0.72",
+    "typeface-lato": "0.0.75"
   },
   "keywords": [
     "gatsby",

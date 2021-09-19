@@ -47,7 +47,7 @@ const InternalLink = styled(Link)`
 `
 
 const BlogHeading = styled(Heading)`
-  font-family: 'Cabin', "Indie flower", "Lato", "Arial";
+  font-family: "Lato", "Cabin", "Indie flower", "Arial";
 `
 
 const Photo = ({ rehyped }) => {

@@ -8,8 +8,12 @@ export const customTheme = deepFreeze({
     font: {
       family: `'Cabin', 'Lato', 'Helvetica', 'Arial'`,
       face: `
+      @font-face {
+        font-family: "Cabin";
+        font-display: block;
+      }
         @font-face {
-          font-family: "Cabin";
+          font-family: "Lato";
           font-display: block;
         }
         @font-face {
